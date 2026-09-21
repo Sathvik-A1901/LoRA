@@ -1,4 +1,4 @@
-# LoRA from Scratch on MNIST
+# LoRA from Scratch on MNIST and My Resume Data
 
 This project demonstrates a from-scratch implementation of **LoRA (Low-Rank Adaptation)** in PyTorch, applied to a simple 3-layer Artificial Neural Network (ANN) on the MNIST dataset.
 
